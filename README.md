@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -73,3 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # webapp_ui
 CSS, react js 
 >>>>>>> ad35aa02d1fcfed463b29e97382d81f18657b2a2
+=======
+# webapp_ui
+CSS, react js
+>>>>>>> bbdd7e94c07742511dbc64c096d92ae2831f4a9a
